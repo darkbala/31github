@@ -1,9 +1,12 @@
 import './App.css';
+import Basket from './pages/Basket/Basket';
+import Home from './pages/Home/Home';
 
 function App() {
   return (
     <div className="App">
-      <h1>second day to learn typescript</h1>
+      <Home />
+      <Basket />
     </div>
   );
 }
