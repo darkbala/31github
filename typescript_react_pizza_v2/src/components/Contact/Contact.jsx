@@ -10,6 +10,7 @@ function Contact() {
         vel earum, iste rerum dolorum? Fugit, eius. Maiores, nisi! Ea ab quam vel quia vitae ad iure
         et.
       </p>
+      <button type="submit">press</button>
     </div>
   );
 }
