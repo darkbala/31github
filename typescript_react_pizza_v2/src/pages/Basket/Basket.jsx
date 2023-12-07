@@ -10,6 +10,7 @@ function Basket() {
         possimus, deleniti expedita numquam error quos quasi? Quod hic aperiam cupiditate velit,
         mollitia voluptas provident placeat voluptatum atque!
       </p>
+      <button type="submit">press</button>
     </div>
   );
 }
