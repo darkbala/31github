@@ -10,6 +10,7 @@ function Home() {
         delectus natus possimus ducimus accusamus voluptates tempora doloremque rerum mollitia
         voluptatum eum atque unde deserunt quidem ipsam ipsum?
       </p>
+      <button type="submit">press</button>
     </div>
   );
 }
