@@ -10,6 +10,7 @@ function Footer() {
         <li>Contacts</li>
         <li>Basket</li>
       </ul>
+      <a href="#">pess to open the youtube</a>
     </div>
   );
 }
