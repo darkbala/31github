@@ -10,6 +10,7 @@ function Form() {
         dolorum debitis provident earum iure laborum sit molestias id, veritatis dolore
         voluptatibus. Assumenda libero iusto temporibus voluptatibus inventore!
       </p>
+      <button type="submit">press</button>
     </div>
   );
 }
