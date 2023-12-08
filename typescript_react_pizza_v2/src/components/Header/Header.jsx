@@ -11,6 +11,7 @@ function Header() {
         <li>Basket</li>
       </ul>
       <a href="#">press to open youtube</a>
+      <p>its just for challenge</p>
     </div>
   );
 }
