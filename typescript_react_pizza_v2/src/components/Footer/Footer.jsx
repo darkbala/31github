@@ -11,6 +11,7 @@ function Footer() {
         <li>Basket</li>
       </ul>
       <a href="#">pess to open the youtube</a>
+      <p>its just for challenge</p>
     </div>
   );
 }
