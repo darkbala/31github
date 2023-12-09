@@ -12,6 +12,10 @@ function Basket() {
       </p>
       <button type="submit">press</button>
       <p>its just for challenge</p>
+      <p>
+        i am just tired, i can't complete my all things, projects, my own problems. But i will try
+        to beat myself and i will be a succesfull person{' '}
+      </p>
     </div>
   );
 }
